@@ -5,6 +5,8 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 
 其中 PG 代指 Paul Graham ， ACL 翻译项目代指 \ `acl-translation <https://github.com/organizations/acl-translation>`_ ， PGCN 代指\ `www.paulgrahamcn.com <http://www.paulgrahamcn.com>`_ 。
 
+恶意转载证据截图： `http://www.douban.com/photos/album/79814158/ <http://www.douban.com/photos/album/79814158/>`_ 
+
 
 1) 中华 2012-10-20 20:19
 ----------------------------
