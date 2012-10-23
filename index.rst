@@ -1,11 +1,17 @@
 paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 =======================================================
 
-以下内容复制自豆油，经由两名当事人同意公开，通信两方分别是 `中华 <http://www.douban.com/people/ada_yaha/>`_ 和 `huangz <http://www.douban.com/people/i_m_huangz/>`_ 。
+以下内容复制自豆邮，经由两名当事人同意公开，通信两方分别是 `中华 <http://www.douban.com/people/ada_yaha/>`_ 和 `huangz <http://www.douban.com/people/i_m_huangz/>`_ 。
 
 其中 PG 代指 Paul Graham ， ACL 翻译项目代指 \ `acl-translation <https://github.com/organizations/acl-translation>`_ ， PGCN 代指\ `www.paulgrahamcn.com <http://www.paulgrahamcn.com>`_ 。
 
 恶意转载证据截图： `http://www.douban.com/photos/album/79814158/ <http://www.douban.com/photos/album/79814158/>`_ 
+
+我（huangz）在一些地方添加了截图，并用以下格式添加了注释。
+
+| \| 注释
+| \|
+| \| 注释内容
 
 
 1) 中华 2012-10-20 20:19
@@ -75,6 +81,16 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 　　 
 目前在几个朋友的帮助下，已经翻译了一部分paulgraham.com上的文章了。 
 
+| \| 注释
+| \|
+| \| 这时 @中华 已经往自己的网站上搬运了几章 ACL 的翻译了
+| \| 而且在这些转载的文章中，对 ACL 翻译项目只字未提：
+| \| 
+
+.. image:: image/复制前三章-lite.png
+
+.. image:: image/前言-lite.png 
+
 
 6) huangz 2012-10-21 08:57
 -----------------------------------------
@@ -110,7 +126,7 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 | acl也是pg的一本书，在他的个人网站上也有介绍。 
 | **为了做的更全面一些，本来也准备翻译这本书的。** 
 　　 
-| 但是既然有同学已经做了一部分了，我也不希望重新造轮子了。 
+| 但是既然有同学已经\ **做了一部分**\ 了，我也不希望重新造轮子了。 
 | **希望能站在巨人的肩膀上**\ ，继续走下去，能把这个兴趣站做的更好，也希望他的文章和他的书，能影响更多的人。
 　　 
 | 3， 
@@ -133,6 +149,16 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 | 如果你和你的朋友还是不能接受的话，那我就在github上fork一份，然后在这个fork上继续做。 
 　　 
 | 你们觉得呢？ 
+
+
+| \| 注释
+| \| 
+| \| 这时 @中华 已经将 ACL 翻译全部转载到自己的网站上，并在主页上添加了『自己』的 ACL 链接。
+| \| 网站上还是对 ACL 翻译项目只字未提，这些文章看上去就像是 @中华 自己『翻译』的一样。
+
+.. image:: image/主页添加ACL-lite.png
+
+.. image:: image/全文拷贝完成-lite.png
 
 
 8) huangz 2012-10-21 15:23
@@ -268,7 +294,7 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 | 你的态度：不希望转载加链接，要不然，XXXX。 
 | 我的态度：还是那句话，我还是很尊重你们做的工作。 
 　　 
-结论：撤下paulgrahamcn.com上的acl。 
+**结论：撤下paulgrahamcn.com上的acl。**
  
 下次讲话，可以客气一点。 
  
@@ -375,6 +401,20 @@ http://www.paulgrahamcn.com/acl/2012/10/20/acl-preface/
 已完成，请监督。 　　 　　 
 
 
+| \| 注释
+| \| 
+| \| 在 @中华 主动承诺删除网站上的副本之后，并表示『事件告一段落』的时候，实际上他只是将主页上的 ACL 链接移走了，并没有删除源文件。
+| \| 我当然不会被这种掩耳盗铃的小把戏骗过，于是在 10) 给出了 `http://www.paulgrahamcn.com/acl.html <http://www.paulgrahamcn.com/acl.html>`_ 地址，要求他遵守诺言。
+| \| 之后， @中华 又故计重施，将上面我给出连接的 ACL 子文件夹的目录删除了，但是各章的源文件依然在，并表示『不太方便』。
+| \| 我收到邮件后，从 jekyll 的 tag 目录确认到，他仍然没有删除 ACL 各章的翻译文件。
+| \| 于是我在 12) 将 tag 页面以及其中一个子页面的地址发送给他，催促他遵守承诺。
+| \|
+| \| @中华 见自己无法隐藏 ACL 翻译的文件，恼羞成怒，只好将所有 ACL 页面的内容改成『SHIT』。
+| \| 截止目前，这个 SHIT 页面现在还能看到： `http://www.paulgrahamcn.com/acl/2012/10/20/acl-preface/ <http://www.paulgrahamcn.com/acl/2012/10/20/acl-preface/>`_ 。
+
+.. image:: image/shit-lite.png
+
+
 14) huangz 2012-10-22 17:10
 ---------------------------------
 
@@ -416,4 +456,4 @@ http://www.paulgrahamcn.com/acl/2012/10/20/acl-preface/
 4，本来还想较个真，既然你们放在GITHUB上的公开项目，而文档里又没有说清楚，我当然可以Fork。不过最后我决定不这么做了，还是那句话，不要让内耗消耗了你们的精力，更多地精力应该放在ACL的翻译上，让他尽快面世。 
 而且也告诉看到这些内容的人，也不要做我想较真而去做的事情。 
 　　 
-**以上就这些了，让这件事情了结了吧，然后各忙各的，做一些让世界更美好一点的事情去吧。** 
+以上就这些了，让这件事情了结了吧，然后各忙各的，做一些让世界更美好一点的事情去吧。
