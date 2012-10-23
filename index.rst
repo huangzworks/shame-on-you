@@ -125,7 +125,7 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 | 1， 
 | **我并不是想纯粹的提高这个站的流量。** 
 | 
-| 这个站不是一个商业网站，只是一个兴趣站点。 
+| **这个站不是一个商业网站，只是一个兴趣站点。**
 　　 
 | 2， 
 | 我当时做这个站的目的，是为了翻译pg的文章。 
@@ -167,6 +167,14 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 .. image:: https://raw.github.com/huangz1990/shame-on-you/master/image/%E4%B8%BB%E9%A1%B5%E6%B7%BB%E5%8A%A0ACL-lite.png
 
 .. image:: https://raw.github.com/huangz1990/shame-on-you/master/image/%E5%85%A8%E6%96%87%E6%8B%B7%E8%B4%9D%E5%AE%8C%E6%88%90-lite.png
+
+| \| 注释
+| \| 
+| \| 尽管 @中华 大义凛然地表示 PGCN 不是商业站点，但是网站上却带有连接到支付宝的捐钱地址：
+| \| 
+.. image:: https://raw.github.com/huangz1990/shame-on-you/6abf75a17ab2a8f93f74db5db1d5455d786ce026/image/donate-lite.png
+
+.. image:: https://raw.github.com/huangz1990/shame-on-you/941ac47e5b3ac630d7087f2c269cd00875f8a5d9/image/donate2-lite.png
 
 
 8) huangz 2012-10-21 15:23
