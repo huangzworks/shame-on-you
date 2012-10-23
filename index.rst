@@ -5,13 +5,21 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 
 其中 PG 代指 Paul Graham ， ACL 翻译项目代指 \ `acl-translation <https://github.com/organizations/acl-translation>`_ ， PGCN 代指\ `www.paulgrahamcn.com <http://www.paulgrahamcn.com>`_ 。
 
-恶意转载证据截图： `http://www.douban.com/photos/album/79814158/ <http://www.douban.com/photos/album/79814158/>`_ 
-
-我（huangz）在一些地方添加了截图，并用以下格式添加了注释。
+我（huangz）在一些地方添加了 PGCN 的网站截图，并用以下格式添加了注释。
 
 | \| 注释
 | \|
 | \| 注释内容
+
+另外，我（huangz）使用\ **加粗**\ 高亮了 @中华 的一部分发言，从这些发言里可以看到， @中华 是如何出尔反尔、自相矛盾的：
+
+| 他一会儿说想转载 ACL 来提高网站的排名，一会儿又说自己不是为了流量来做这件事；
+| 一会儿说不想自己翻译 ACL ，想站在巨人的肩膀上，一会儿又说要自己来翻译一个 ACL ；
+| 一会儿承诺删除转载，一会儿又说目前还不方便删除。。。
+
+总之，槽点满满，祝各位看得开心！
+
+：）
 
 
 1) 中华 2012-10-20 20:19
@@ -44,7 +52,7 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 --------------------------------------
 
 | 好阿。 
-| 那我就在每篇文章的开头加一个链接过去吧。 
+| 那我就\ **在每篇文章的开头加一个链接**\ 过去吧。 
 　　 
 **我想提高一下paulgrahamcn.com的排名。** 
 　　 
@@ -75,9 +83,9 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 
 如果你有认识的朋友也对PG感兴趣，希望也能多帮忙paulgrahamcn.com这个站。 
 　　 
-**我希望把paulgraham.com上的所有东西都汉化了。**
+我希望把paulgraham.com上的所有东西都汉化了。
 　　 
-**不只是acl。**
+不只是acl。
 　　 
 目前在几个朋友的帮助下，已经翻译了一部分paulgraham.com上的文章了。 
 
@@ -124,7 +132,7 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 | 所有他相关的文章，不只是h&p里的一小部分。 
 　　 
 | acl也是pg的一本书，在他的个人网站上也有介绍。 
-| **为了做的更全面一些，本来也准备翻译这本书的。** 
+| 为了做的更全面一些，\ **本来**\ 也准备翻译这本书的。 
 　　 
 | 但是既然有同学已经\ **做了一部分**\ 了，我也不希望重新造轮子了。 
 | **希望能站在巨人的肩膀上**\ ，继续走下去，能把这个兴趣站做的更好，也希望他的文章和他的书，能影响更多的人。
@@ -154,8 +162,8 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 | \| 注释
 | \| 
 | \| 这时 @中华 已经将 ACL 翻译全部转载到自己的网站上，并在主页上添加了『自己』的 ACL 链接。
-| \| 网站上还是对 ACL 翻译项目只字未提，这些文章看上去就像是 @中华 自己『翻译』的一样。
-
+| \| 网站上还是对 ACL 翻译项目只字未提，这些文章看上去就像是 @中华 『自己翻译』的一样。
+| \|
 .. image:: https://raw.github.com/huangz1990/shame-on-you/master/image/%E4%B8%BB%E9%A1%B5%E6%B7%BB%E5%8A%A0ACL-lite.png
 
 .. image:: https://raw.github.com/huangz1990/shame-on-you/master/image/%E5%85%A8%E6%96%87%E6%8B%B7%E8%B4%9D%E5%AE%8C%E6%88%90-lite.png
