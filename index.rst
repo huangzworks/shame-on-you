@@ -87,9 +87,9 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 | \| 而且在这些转载的文章中，对 ACL 翻译项目只字未提：
 | \| 
 
-.. image:: image/复制前三章-lite.png
+.. image:: https://raw.github.com/huangz1990/shame-on-you/master/image/%E5%A4%8D%E5%88%B6%E5%89%8D%E4%B8%89%E7%AB%A0-lite.png
 
-.. image:: image/前言-lite.png 
+.. image:: https://raw.github.com/huangz1990/shame-on-you/master/image/%E5%89%8D%E8%A8%80-lite.png
 
 
 6) huangz 2012-10-21 08:57
@@ -156,9 +156,9 @@ paulgrahamcn.com 恶意转载 ACL 翻译项目事件记录
 | \| 这时 @中华 已经将 ACL 翻译全部转载到自己的网站上，并在主页上添加了『自己』的 ACL 链接。
 | \| 网站上还是对 ACL 翻译项目只字未提，这些文章看上去就像是 @中华 自己『翻译』的一样。
 
-.. image:: image/主页添加ACL-lite.png
+.. image:: https://raw.github.com/huangz1990/shame-on-you/master/image/%E4%B8%BB%E9%A1%B5%E6%B7%BB%E5%8A%A0ACL-lite.png
 
-.. image:: image/全文拷贝完成-lite.png
+.. image:: https://raw.github.com/huangz1990/shame-on-you/master/image/%E5%85%A8%E6%96%87%E6%8B%B7%E8%B4%9D%E5%AE%8C%E6%88%90-lite.png
 
 
 8) huangz 2012-10-21 15:23
@@ -412,7 +412,7 @@ http://www.paulgrahamcn.com/acl/2012/10/20/acl-preface/
 | \| @中华 见自己无法隐藏 ACL 翻译的文件，恼羞成怒，只好将所有 ACL 页面的内容改成『SHIT』。
 | \| 截止目前，这个 SHIT 页面现在还能看到： `http://www.paulgrahamcn.com/acl/2012/10/20/acl-preface/ <http://www.paulgrahamcn.com/acl/2012/10/20/acl-preface/>`_ 。
 
-.. image:: image/shit-lite.png
+.. image:: https://raw.github.com/huangz1990/shame-on-you/master/image/shit-lite.png
 
 
 14) huangz 2012-10-22 17:10
